@@ -37,7 +37,7 @@ class _HomePageState extends State<HomePage> {
       }
       counter = counter + 1;
       if (counter == 9) {
-        currentPlayer = "Game Over!!!";
+        currentPlayer = "Game Over ====> !!!";
       }
       // if (reset_controller == '1') {
       //   grid[0] = '-';
